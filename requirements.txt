@@ -1,4 +1,9 @@
-streamlit==1.26.0
-pandas==2.1.1
+# ===========================
+# Gusau BRT Ticketing App 1
+# Compatible versions for Streamlit Cloud
+# ===========================
+
+streamlit==1.25.0
+pandas==2.0.3
 qrcode==7.4.2
-Pillow==10.0.0
+Pillow==9.5.0
