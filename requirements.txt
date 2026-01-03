@@ -1,4 +1,6 @@
-streamlit==1.25.0
+streamlit==1.26.0
 pandas==2.0.3
-qrcode==7.4.2
-pillow>=7.1.0,<10
+pillow==9.5.0
+rich==14.2.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
